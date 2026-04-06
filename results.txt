@@ -1,0 +1,2 @@
+[OPEN] Port 22 (ssh) | SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+[OPEN] Port 80 (http) | HTTP/1.1 400 Bad Request
